@@ -1,3 +1,4 @@
+// 이벤트 추가하기 | addlistener() = on()
 var EventEmitter = require('events');
 
 var custom_event = new EventEmitter();
